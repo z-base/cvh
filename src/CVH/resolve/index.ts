@@ -1,1 +1,1 @@
-export function resolve() {}
+export function resolve(timestamp: number) {}
